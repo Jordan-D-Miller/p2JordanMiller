@@ -4,6 +4,6 @@
 
 ![Chevy malibu](./pics/chevymalibuDash.jpg)
 ![F150](./pics/f150Dash.webp)
-![Toyota](./pics/Rav4)
+![Toyota](./pics/Rav4.jpeg)
 ![Kia](./pics/Stinger.jpg)
 ![Bugatti](./pics/BugattiVeyronDash.jpg)
