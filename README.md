@@ -16,6 +16,7 @@
 These are overall good designs but they do have some slight things that can be improved on.
 # Good Design
 ![F150](./pics/f150Dash.webp)
+
 This is a very good design because all of the major meters and gauges (odemeter and fuel gauge) are all easily accessed and avaible at all times. The driver does not have to fiddle with the middle screen to access any of the gauges. Also, the speedometer and tachometer are easily distiguishable from each other because the tachometer is smaller and has a completely different style and size.
 
 # Bad Design 
