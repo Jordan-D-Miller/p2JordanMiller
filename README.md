@@ -29,23 +29,23 @@ I consider this a bad design because a lot of the features of a car dashboard th
 4. Many of the other features such as the oil gauge and engine temperature are not easily seen. 
 
 # Common Features 
-    * Meters (tachometer and speedometer)
-    * Gauges (Fuel gauge)
-    * Gear
-    * Door open indicators
-    * Trunk open indicators
-    * Lights
-    * MPG
+    - Meters (tachometer and speedometer)
+    - Gauges (Fuel gauge)
+    - Gear
+    - Door open indicators
+    - Trunk open indicators
+    - Lights
+    - MPG
 # "New and Rare Uses"
-    * Sleep indicator (tells user that they need a break)
-    * Ice Warnings
-    * Radar and car distance (tells user how far away a car is)
-    * Lane change indicators
-    * Mode changes 
+    - Sleep indicator (tells user that they need a break)
+    - Ice Warnings
+    - Radar and car distance (tells user how far away a car is)
+    - Lane change indicators
+    - Mode changes 
 # Controls the user interacts with on the dashboard
-    * Cruise control
-    * Lights
-    * Gear/Shift
-    * Accelerator (through the meters)
-    * Parking Break
+    - Cruise control
+    - Lights
+    - Gear/Shift
+    - Accelerator (through the meters)
+    - Parking Break
 
