@@ -22,5 +22,30 @@ This is a very good design because all of the major meters and gauges (odemeter 
 # Bad Design 
 ![mini](./pics/baddash.png)
 
+I consider this a bad design because a lot of the features of a car dashboard that a user uses is all over the place and not presented in a conventional way. 
+1. The spedometer is in the middle of the car the driver would have to look away to see it 
+2. The tachometer is small and a new user might confuse it with a speedometer
+3. The time and temperature are in front of the driver when the area could have been used for other information
+4. Many of the other features such as the oil gauge and engine temperature are not easily seen. 
 
+# Common Features 
+    * Meters (tachometer and speedometer)
+    * Gauges (Fuel gauge)
+    * Gear
+    * Door open indicators
+    * Trunk open indicators
+    * Lights
+    * MPG
+# "New and Rare Uses"
+    * Sleep indicator (tells user that they need a break)
+    * Ice Warnings
+    * Radar and car distance (tells user how far away a car is)
+    * Lane change indicators
+    * Mode changes 
+# Controls the user interacts with on the dashboard
+    * Cruise control
+    * Lights
+    * Gear/Shift
+    * Accelerator (through the meters)
+    * Parking Break
 
