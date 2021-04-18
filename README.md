@@ -2,4 +2,4 @@
 
 ## Dash 1 ##
 
-![Chevy malibu](.pics/chevymalibuDash.jpg)
+![Chevy malibu](./pics/chevymalibuDash.jpg)
