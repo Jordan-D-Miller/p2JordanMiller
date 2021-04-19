@@ -1,9 +1,10 @@
 # Jordan Miller CS 4331 Project 2 CS-4331-Project-2
 
 ## Modern Dash Examples ##
-![Toyota](./pics/Rav4.jpeg)
+
 ![Chevy malibu](./pics/chevymalibuDash.jpg)
 ![Kia](./pics/Stinger.jpg)
+![Nissan](./pics/nissanimage.jpg)
 ### Pros ###
     1. Fuel gauge in central location
     2. Obvious that the Tachometer is a Tachometer and that a speedometer is a speedmeter
@@ -36,16 +37,24 @@ I consider this a bad design because a lot of the features of a car dashboard th
     - Trunk open indicators
     - Lights
     - MPG
-# "New and Rare Uses"
+# Other Features and Uses
     - Sleep indicator (tells user that they need a break)
     - Ice Warnings
     - Radar and car distance (tells user how far away a car is)
     - Lane change indicators
     - Mode changes 
-# Controls the user interacts with on the dashboard
+    - Specfic tire pressure
+# Controls the user interacts with 
     - Cruise control
     - Lights
     - Gear/Shift
     - Accelerator (through the meters)
     - Parking Break
 
+# Common Mistakes
+    - Unclear warnings from the car
+    - Confusing the speedometer and tachometer
+    - Confusing outside temperature for oil temp 
+
+# My Design
+ ![FinalImprovement](./pics/RAV4Final.png)
