@@ -59,6 +59,9 @@ I consider this a bad design because a lot of the features of a car dashboard th
 # My Design
 
     ## Design ##
-        - 
+        - Every indicator can be seen without chaning the screen
+        - added a forever odometer
+        - added obvious warn symbol so the driver knows when it is on
+        - All symbols will be on the techometer
 
  ![FinalImprovement](./pics/RAV4Final2.png)
