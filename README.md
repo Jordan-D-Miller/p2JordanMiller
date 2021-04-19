@@ -57,4 +57,8 @@ I consider this a bad design because a lot of the features of a car dashboard th
     - Confusing outside temperature for oil temp 
 
 # My Design
- ![FinalImprovement](./pics/RAV4Final.png)
+
+    ## Design ##
+        - 
+
+ ![FinalImprovement](./pics/RAV4Final2.png)
