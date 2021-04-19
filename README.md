@@ -1,5 +1,5 @@
 # Jordan Miller CS 4331 Project 2 CS-4331-Project-2
-
+https://youtu.be/PSz1dHxtnCc
 ## Modern Dash Examples ##
 
 ![Chevy malibu](./pics/chevymalibuDash.jpg)
@@ -7,7 +7,7 @@
 ![Nissan](./pics/nissanimage.jpg)
 ### Pros ###
     1. Fuel gauge in central location
-    2. Obvious that the Tachometer is a Tachometer and that a speedometer is a speedmeter
+    2. Obvious that the Tachometer is a Tachometer and that a speedometer is a speedometer
     3. Simple
 
 ### Cons ###
